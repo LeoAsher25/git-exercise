@@ -1,3 +1,5 @@
+# Gitignore
+
 ### 1. Gitignore là gì? (WHAT)
 
 - Gitignore là file có tên là .gitignore do Git quy định. Nhiệm vụ của nó là liệt kê những file mà mình không mong muốn cho vào git
