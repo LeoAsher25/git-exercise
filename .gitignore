@@ -1,0 +1,4 @@
+trash-file.txt
+trash-folder/sub-folder/
+!not-trash-file.txt
+trash-folder/*.txt
